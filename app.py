@@ -435,8 +435,6 @@ st.header("ℹ️ About the Project")
 st.markdown("""
 ### 5G Signal Strength and Coverage Prediction Simulator
 
-**Project Type:** Individual ECE Software Simulation Project
-
 **Programming Language:** Python
 
 **Libraries Used:**
@@ -469,6 +467,5 @@ The results are theoretical predictions and are not actual
 st.divider()
 
 st.caption(
-    "5G Signal Strength and Coverage Prediction Simulator | "
-    "ECE Individual Project"
+    "5G Signal Strength and Coverage Prediction Simulator "
 )
